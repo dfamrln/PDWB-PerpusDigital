@@ -24,7 +24,7 @@
 ## Cara Deploy ke InfinityFree (GRATIS)
 
 ### Langkah 1 — Buat Akun
-- Daftar di https://infinityfree.com
+- Daftar di https://cpanel.com
 - Buat akun hosting baru → catat **FTP host, username, password**
 - Catat nama **database** yang dibuat otomatis
 
