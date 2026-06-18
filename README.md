@@ -21,10 +21,10 @@
 
 ---
 
-## Cara Deploy ke InfinityFree (GRATIS)
+## Cara Deploy ke cPanel
 
 ### Langkah 1 — Buat Akun
-- Daftar di https://cpanel.com
+- Daftar di https://perpus.pdwtiumy.click/.com
 - Buat akun hosting baru → catat **FTP host, username, password**
 - Catat nama **database** yang dibuat otomatis
 
